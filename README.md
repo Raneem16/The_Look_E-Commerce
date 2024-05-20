@@ -43,9 +43,13 @@ o	Fields: id, cost, category, name, brand, retail_price, department, sku, distri
 o	This table stores user information.
 o	Fields: id, first_name, last_name, email, age, gender, state, street_address, postal_code, city, country
 
+Relationships:
+Using the Model view look for the relationship between the different tables
 
 
-## Screenshots
+![The Relationships of tables](https://github.com/Raneem16/The_Look_E-Commerce/assets/133536932/0a817a0b-58d7-4c62-b5f2-6a5e96d411d9)
+
+## Dashboard📊
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
