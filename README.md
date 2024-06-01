@@ -47,10 +47,12 @@ Relationships:
 Using the Model view look for the relationship between the different tables
 
 
-![The Relationships of tables](https://github.com/Raneem16/The_Look_E-Commerce/assets/133536932/0a817a0b-58d7-4c62-b5f2-6a5e96d411d9)
+
+<img width="877" alt="ML" src="https://github.com/Raneem16/The_Look_E-Commerce/assets/133536932/afd620a2-5987-4779-87fa-5f7df361b381">
 
 ## Dashboard📊
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+<img width="326" alt="Screenshot 2024-06-02 004659" src="https://github.com/Raneem16/The_Look_E-Commerce/assets/133536932/956b8d9d-f707-46ab-aca1-2949df35da80">
 
 
